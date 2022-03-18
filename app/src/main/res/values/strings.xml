@@ -13,15 +13,15 @@
     <string name="nine">9</string>
 
     <string name="clear">C</string>
-    <string name="exponent">^</string>
-    <string name="parentheses">()</string>
+    <string name="square">x^2</string>
+    <string name="sqrt">&#8730;</string>
     <string name="div">&#247;</string>
     <string name="mul">&#215;</string>
     <string name="add">+</string>
     <string name="sub">-</string>
-    <string name="plusMinus">+/-</string>
     <string name="point">.</string>
     <string name="equals">=</string>
+    <string name="neg">&#8317;&#8315;&#8318;</string>
 
     <string name="backspace">&#9003;</string>
 
